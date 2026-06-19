@@ -10,7 +10,10 @@
 - I enjoy building practical projects that solve real problems  
 - Currently improving my skills in Java, JavaScript, and Web Development  
 - Focused on becoming industry-ready for software development roles  
-
+## Interests
+- Machine Learning
+- Data Science
+- Python for AI/ML
 ---
 
 ## ⚒️ Tech Stack
