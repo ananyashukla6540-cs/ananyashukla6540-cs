@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ananya Shukla 👋
 
-<!--
-**ananyashukla6540-cs/ananyashukla6540-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech Computer Science Student | Aspiring Software Developer  
+💡 Interested in Full Stack Development & Problem Solving  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- I enjoy building practical projects that solve real problems  
+- Currently improving my skills in Java, JavaScript, and Web Development  
+- Focused on becoming industry-ready for software development roles  
+
+---
+
+## ⚒️ Tech Stack
+- Languages: Java, JavaScript, C++
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+### 💰 Expense Tracker
+Expense tracking web app to manage income and expenses.
+
+Tech: HTML, CSS, JavaScript
+
+---
+
+⭐ Always learning and improving.
