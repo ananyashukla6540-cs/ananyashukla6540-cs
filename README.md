@@ -11,7 +11,7 @@
 - Currently improving my skills in Java, JavaScript, and Web Development  
 - Focused on becoming industry-ready for software development roles  
 ## Interests
-- Machine Learning
+- Full stack 
 - Data Science
 - Python for AI/ML
 ---
