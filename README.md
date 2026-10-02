@@ -9,7 +9,7 @@
 
 ---
 
-### 👩‍💻 About Me
+👩‍💻 About Me
 
 - 🎓 Computer Science student
 - 💻 Interested in Full-Stack Web Development
