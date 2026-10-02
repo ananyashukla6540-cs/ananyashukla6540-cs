@@ -43,9 +43,7 @@ Currently under development.
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyashukla6540-cs&show_icons=true&theme=tokyonight" alt="Ananya's GitHub statistics" />
-</p>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyashukla6540-cs&layout=compact&theme=tokyonight" alt="Most used languages" />
