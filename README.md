@@ -1,49 +1,68 @@
 
-# Hi, I'm Ananya Shukla 👋
+<h1 align="center">Hi 👋, I'm Ananya Shukla</h1>
 
-### Aspiring Full-Stack Developer | Building Useful Web Applications
+<h3 align="center">Aspiring Full-Stack Developer | B.Tech Student</h3>
 
-I'm a developer in progress who enjoys turning ideas into practical web applications. I focus on writing clean code, learning modern development tools, and building projects that solve real problems.
-
-- 💻 Interested in full-stack web development
-- 🚀 Currently building **PlacePilot**, a placement management system designed to streamline college placement activities.
-- 🛠️ Actively improving its features, user experience, and functionality.
-- 🌱 Continuously learning JavaScript, React, backend development, and databases.
-- 🎯 Goal: Build reliable, user-friendly applications and grow as a software developer.
-
-### 🛠️ Technologies & Tools
-
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Add your actual backend technologies here  
-**Database:** Add the database you use  
-**Tools:** Git, GitHub, VS Code
-
-### 🚀 Featured Project
-
-#### PlacePilot — Placement Management System
-
-A placement management project currently under development, focused on organizing college placement activities and managing placement-related information.
-
-**Current project focus:**
-- 🎓 Student and placement management
-- 📊 Dashboard and user interface
-- ⚙️ Improving features and functionality
-- ✨ Enhancing usability and overall design
-
-> 🚧 Status: Currently in development.
-
-### 📚 Currently Learning
-
-- JavaScript fundamentals and advanced concepts
-- React and component-based development
-- Backend development and database integration
-- Git and GitHub workflows
-
-### 📫 Connect With Me
-
-- GitHub: [@ananyashukla6540-cs](https://github.com/ananyashukla6540-cs)
-- LinkedIn: https://www.linkedin.com/in/ananyashukla1
+<p align="center">
+  Passionate about Web Development, Problem Solving, and Building Real-World Projects.
+</p>
 
 ---
 
-💡 *Learning, building, and improving one project at a time.*
+### 👩‍💻 About Me
+
+- 🎓 Computer Science student
+- 💻 Interested in Full-Stack Web Development
+- 🚀 Currently developing **PlacePilot**, a Placement Management System
+- 🌱 Learning JavaScript, React, and backend development
+- 🎯 Focused on improving my coding skills through practical projects
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" alt="Development tools" />
+</p>
+
+<!-- Add backend and database icons after confirming your actual stack. -->
+
+---
+
+### 🚀 Featured Project
+
+**PlacePilot — Placement Management System**
+
+Currently under development.
+
+- 🎓 Placement-related information management
+- 📊 Dashboard and user interface
+- 🛠️ Ongoing feature and usability improvements
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyashukla6540-cs&show_icons=true&theme=tokyonight" alt="Ananya's GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyashukla6540-cs&layout=compact&theme=tokyonight" alt="Most used languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/ananyashukla6540-cs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Learn • Build • Improve ✨
+</p>
