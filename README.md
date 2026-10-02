@@ -42,7 +42,7 @@ A placement management project currently under development, focused on organizin
 ### 📫 Connect With Me
 
 - GitHub: [@ananyashukla6540-cs](https://github.com/ananyashukla6540-cs)
-- LinkedIn: https://www.linkedin.com/in/ananyashukla1?
+- LinkedIn: https://www.linkedin.com/in/ananyashukla1
 
 ---
 
