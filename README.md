@@ -51,14 +51,20 @@ Currently under development.
 
 ---
 
+
 ### 🤝 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/ananyashukla6540-cs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://www.linkedin.com/in/ananyashukla1style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ananyashukla6540-cs.github.io/Ananya_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
